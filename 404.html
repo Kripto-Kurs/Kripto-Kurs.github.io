@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KRİPTOQRAFİYA KURSU</title>
+  <script>
+    // GitHub Pages SPA Redirect
+    (function() {
+      var path = window.location.pathname;
+      var hash = window.location.hash;
+      // If path contains a lecture name directly, convert to hash
+      var match = path.match(/\/(lecture-\d+|supplement-[a-e]|tools|quiz|bib)/i);
+      if (match) {
+        window.location.replace("/#" + match[1]);
+      } else {
+        window.location.replace("/" + (hash || ""));
+      }
+    })();
+  </script>
+</head>
+<body>
+  <p style="font-family: sans-serif; text-align: center; margin-top: 50px; color: #64748b;">
+    Yönləndirilir...
+  </p>
+</body>
+</html>

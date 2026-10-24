@@ -1,0 +1,11 @@
+.git
+.gitignore
+.obsidian
+.vscode
+wiki
+raw
+*.md
+jsconfig.json
+.DS_Store
+Thumbs.db
+node_modules

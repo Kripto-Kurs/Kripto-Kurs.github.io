@@ -1,0 +1,12 @@
+# Dependencies & Build artifacts
+node_modules/
+package-lock.json
+.vercel/
+
+# Obsidian vault settings & workspace state
+.obsidian/
+
+# OS metadata & temporary files
+.DS_Store
+Thumbs.db
+*.tmp

@@ -1,0 +1,88 @@
+{
+  "id": "kripto-kurs-pwa-v1",
+  "name": "Kriptoqrafiya Kursu - 30 Mühazirə & Lüğətlər",
+  "short_name": "KriptoKurs",
+  "description": "Müasir Kriptoqrafiyanın Nəzəri və Praktik Əsasları — 30 Mühazirə, 5 Elmi Əlavə və 870+ Terminlik Ensiklopedik Lüğətlər",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kriptoqrafiya Lüğəti (Tam)",
+      "short_name": "Lüğət (Tam)",
+      "description": "555 Terminlik Ensiklopedik Kriptoqrafiya Lüğəti",
+      "url": "./index.html#glossary-full",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Yığcam Lüğət",
+      "short_name": "Yığcam",
+      "description": "315 Terminlik Yığcam Əlifba Göstəricisi",
+      "url": "./index.html#glossary-compact",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Mühazirələr Kataloqu",
+      "short_name": "Mühazirələr",
+      "description": "30 Mühazirə və 4 Əsas Bölmə",
+      "url": "./index.html#lecture-1",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "İnteraktiv Alətlər & Kalkulyatorlar",
+      "short_name": "Alətlər",
+      "description": "Kriptoqrafik Alətlər və Analiz Alətləri",
+      "url": "./index.html#tools",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "categories": [
+    "education",
+    "books",
+    "utilities"
+  ],
+  "lang": "az",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
