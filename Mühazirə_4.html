@@ -1,10 +1,98 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="az" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta charset="utf-8" />
+  <!-- Primary SEO Meta Tags -->
+  <title>Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz | KRİPTOQRAFİYA KURSU</title>
+  <meta name="title" content="Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz | KRİPTOQRAFİYA KURSU">
+  <meta name="description" content="Kriptoqrafiyada ehtimal nəzəriyyəsi, bircins, binomial və Puasson paylanmaları, Bayes teoremi, CSPRNG və təsadüfi ədəd generatorlarının yoxlanması.">
+  <meta name="keywords" content="ehtimal nezeriyyesi, kriptoanaliz, bayes teoremi, csprng, tesadufi ededler, x-kvadrat testi, statistik analiz">
+  <meta name="author" content="Kripto-Kurs">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://kripto-kurs.github.io/lecture_4.html">
+  <link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_4.html">
+  <link rel="alternate" hreflang="x-default" href="https://kripto-kurs.github.io/lecture_4.html">
+
+  <!-- Open Graph / Facebook / LinkedIn / WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://kripto-kurs.github.io/lecture_4.html">
+  <meta property="og:title" content="Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz | KRİPTOQRAFİYA KURSU">
+  <meta property="og:description" content="Kriptoqrafiyada ehtimal nəzəriyyəsi, bircins, binomial və Puasson paylanmaları, Bayes teoremi, CSPRNG və təsadüfi ədəd generatorlarının yoxlanması.">
+  <meta property="og:image" content="https://kripto-kurs.github.io/aes_penguin.png">
+  <meta property="og:image:alt" content="Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz">
+  <meta property="og:locale" content="az_AZ">
+  <meta property="og:site_name" content="Kripto-Kurs">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://kripto-kurs.github.io/lecture_4.html">
+  <meta name="twitter:title" content="Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz | KRİPTOQRAFİYA KURSU">
+  <meta name="twitter:description" content="Kriptoqrafiyada ehtimal nəzəriyyəsi, bircins, binomial və Puasson paylanmaları, Bayes teoremi, CSPRNG və təsadüfi ədəd generatorlarının yoxlanması.">
+  <meta name="twitter:image" content="https://kripto-kurs.github.io/aes_penguin.png">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz",
+  "description": "Kriptoqrafiyada ehtimal nəzəriyyəsi, bircins, binomial və Puasson paylanmaları, Bayes teoremi, CSPRNG və təsadüfi ədəd generatorlarının yoxlanması.",
+  "inLanguage": "az",
+  "image": "https://kripto-kurs.github.io/aes_penguin.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kripto-kurs.github.io/lecture_4.html"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Kripto-Kurs",
+    "url": "https://kripto-kurs.github.io"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kripto-Kurs",
+    "url": "https://kripto-kurs.github.io",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kripto-kurs.github.io/assets/icons/icon-512.png"
+    }
+  },
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Kriptoqrafiya Kursu (30 Mühazirə və 5 Elmi Əlavə)",
+    "url": "https://kripto-kurs.github.io"
+  }
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Səhifə",
+      "item": "https://kripto-kurs.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mühazirələr",
+      "item": "https://kripto-kurs.github.io/#lectures"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz",
+      "item": "https://kripto-kurs.github.io/lecture_4.html"
+    }
+  ]
+}
+  </script>
+<meta charset="utf-8" />
   <meta name="generator" content="pandoc 3.10.2" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Mühazirə_4</title>
+  
   <style>
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -175,6 +263,8 @@
   <script defer=""
   src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"
   type="text/javascript"></script>
+
+
 </head>
 <body>
 <div class="titlepage">

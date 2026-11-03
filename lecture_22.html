@@ -1,10 +1,98 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="az" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta charset="utf-8" />
+  <!-- Primary SEO Meta Tags -->
+  <title>Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə | KRİPTOQRAFİYA KURSU</title>
+  <meta name="title" content="Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə | KRİPTOQRAFİYA KURSU">
+  <meta name="description" content="Elliptik Əyrilərdə Diskret Loqarifm Problemi (ECDLP), ECDH açar razılaşması, ECDSA rəqəmsal imzası və Nonce təkrar istifadəsi zəifliyi.">
+  <meta name="keywords" content="ecdh, ecdsa, ecdlp, elliptik eyriler imza, nonce tehlukesi, secp256k1">
+  <meta name="author" content="Kripto-Kurs">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://kripto-kurs.github.io/lecture_22.html">
+  <link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_22.html">
+  <link rel="alternate" hreflang="x-default" href="https://kripto-kurs.github.io/lecture_22.html">
+
+  <!-- Open Graph / Facebook / LinkedIn / WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://kripto-kurs.github.io/lecture_22.html">
+  <meta property="og:title" content="Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə | KRİPTOQRAFİYA KURSU">
+  <meta property="og:description" content="Elliptik Əyrilərdə Diskret Loqarifm Problemi (ECDLP), ECDH açar razılaşması, ECDSA rəqəmsal imzası və Nonce təkrar istifadəsi zəifliyi.">
+  <meta property="og:image" content="https://kripto-kurs.github.io/aes_penguin.png">
+  <meta property="og:image:alt" content="Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə">
+  <meta property="og:locale" content="az_AZ">
+  <meta property="og:site_name" content="Kripto-Kurs">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://kripto-kurs.github.io/lecture_22.html">
+  <meta name="twitter:title" content="Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə | KRİPTOQRAFİYA KURSU">
+  <meta name="twitter:description" content="Elliptik Əyrilərdə Diskret Loqarifm Problemi (ECDLP), ECDH açar razılaşması, ECDSA rəqəmsal imzası və Nonce təkrar istifadəsi zəifliyi.">
+  <meta name="twitter:image" content="https://kripto-kurs.github.io/aes_penguin.png">
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə",
+  "description": "Elliptik Əyrilərdə Diskret Loqarifm Problemi (ECDLP), ECDH açar razılaşması, ECDSA rəqəmsal imzası və Nonce təkrar istifadəsi zəifliyi.",
+  "inLanguage": "az",
+  "image": "https://kripto-kurs.github.io/aes_penguin.png",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kripto-kurs.github.io/lecture_22.html"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Kripto-Kurs",
+    "url": "https://kripto-kurs.github.io"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kripto-Kurs",
+    "url": "https://kripto-kurs.github.io",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://kripto-kurs.github.io/assets/icons/icon-512.png"
+    }
+  },
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Kriptoqrafiya Kursu (30 Mühazirə və 5 Elmi Əlavə)",
+    "url": "https://kripto-kurs.github.io"
+  }
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Səhifə",
+      "item": "https://kripto-kurs.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mühazirələr",
+      "item": "https://kripto-kurs.github.io/#lectures"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə",
+      "item": "https://kripto-kurs.github.io/lecture_22.html"
+    }
+  ]
+}
+  </script>
+<meta charset="utf-8" />
   <meta name="generator" content="pandoc 3.10.2" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Mühazirə_22</title>
+  
   <style>
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -175,6 +263,8 @@
   <script defer=""
   src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"
   type="text/javascript"></script>
+
+
 </head>
 <body>
 <div class="titlepage">

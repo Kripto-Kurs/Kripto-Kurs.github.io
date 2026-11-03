@@ -1,0 +1,36 @@
+# ==============================================================================
+# Kripto-Kurs Robots.txt - Enterprise Search Engine Crawler Policy
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Fast crawling for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Disallow internal configuration or hidden directories if any
+Disallow: /.git/
+Disallow: /.github/
+
+# Sitemaps
+Sitemap: https://kripto-kurs.github.io/sitemap.xml
+Host: https://kripto-kurs.github.io

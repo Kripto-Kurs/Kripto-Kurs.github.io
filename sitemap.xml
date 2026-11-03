@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kripto-kurs.github.io/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Kriptoqrafiya Kursu - 30 Mühazirə və 5 Elmi Əlavə</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/glossary_full.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/glossary_full.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Kriptoqrafiya Terminləri Lüğəti (Geniş və Ətraflı Versiya)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/glossary_compact.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/glossary_compact.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Kriptoqrafiya Terminləri Lüğəti (Yığcam və Praktik Versiya)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_1.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_1.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 1: Kriptoqrafiyaya Giriş</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_2.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_2.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 2: Klassik Şifrələr və Modul Arifmetika</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_3.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_3.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 3: Polialfabetik Şifrələr və Vijener</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_4.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_4.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 4: Ehtimal Nəzəriyyəsi və Kriptoanaliz</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_5.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_5.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 5: İnformasiya Nəzəriyyəsi və Mütləq Məxfilik</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_6.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_6.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 6: Axın Şifrələri və LFSR</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_7.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_7.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 7: Müasir Axın Şifrələri (Trivium və ChaCha20)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_8.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_8.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 8: Feystel Şəbəkələri və DES</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_9.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_9.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 9: Diferensial və Xətti Kriptoanaliz</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_10.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_10.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 10: AES Alqoritmi (Rijndael)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_11.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_11.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 11: Blok Şifrə Rejimləri (ECB, CBC, CTR, GCM)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_12.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_12.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 12: Kriptoqrafik Heş Funksiyaları və Merkle-Damgård</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_13.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_13.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 13: MD5, SHA-1 və SHA-2 Ailəsi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_14.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_14.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 14: SHA-3 (Keccak) və Süngər Konstruksiyaları</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_15.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_15.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 15: MAK (Message Authentication Code) və Hibrid Şifrləmə</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_16.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_16.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 16: Asimmetrik Kriptoqrafiyaya Giriş</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_17.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_17.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 17: Ədədlər Nəzəriyyəsi və Modul Arifmetika</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_18.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_18.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 18: Eyler Funksiyası və Çin Qalıq Teoremi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_19.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_19.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 19: RSA Kriptosistemi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_20.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_20.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 20: Diffie-Hellman və ElGamal</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_21.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_21.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 21: Elliptik Əyrilər Kriptoqrafiyası (ECC) - I Hissə</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_22.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_22.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 22: Elliptik Əyrilər Kriptoqrafiyası (ECC) - II Hissə</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_23.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_23.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 23: Rəqəmsal İmza Sxemləri</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_24.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_24.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 24: Açar İdarəçiliyi və PKI (X.509)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_25.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_25.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 25: TLS/SSL Protokolu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_26.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_26.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 26: IPsec və VPN Təhlükəsizliyi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_27.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_27.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 27: Kriptoanaliz və Yan Kanal Hücumları</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_28.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_28.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 28: Post-Kvant Kriptoqrafiya Təməlləri</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_29.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_29.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 29: Qəfəs və Kod Əsaslı PQC</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/lecture_30.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/lecture_30.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Mühazirə 30: Müasir Kriptoqrafik Tətbiqlər və Blokçeyn</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/supplement_a.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/supplement_a.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Əlavə A: Kriptoqrafiyanın 4000 İllik Böyük Tarixi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/supplement_b.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/supplement_b.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Əlavə B: Qrup, Meydan və Cəbr Təməlləri (Galois Fields GF(2^8))</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/supplement_c.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/supplement_c.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Əlavə C: Hesablama Mürəkkəbliyi Nəzəriyyəsi (P, NP, BQP)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/supplement_d.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/supplement_d.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Əlavə D: Böyük Ədədlərin Faktorizasiyası və DLP Alqoritmləri</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kripto-kurs.github.io/supplement_e.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="az" href="https://kripto-kurs.github.io/supplement_e.html"/>
+    <image:image>
+      <image:loc>https://kripto-kurs.github.io/aes_penguin.png</image:loc>
+      <image:title>Əlavə E: Kriptoqrafiya Onlayn Açıq Resurslar Kataloqu</image:title>
+    </image:image>
+  </url>
+</urlset>
